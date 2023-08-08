@@ -33,6 +33,6 @@
     "parcel": "^1.12.4"
   },
   "stackblitz": {
-    "startCommand": "yarn && yarn build && yarn start"
+    "startCommand": "yarn build && yarn start"
   }
 }
